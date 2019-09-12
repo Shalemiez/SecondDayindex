@@ -1,0 +1,15 @@
+header {
+    height: 10vh;
+    background-color: blue;
+    
+}
+body{
+    height:80vh;
+}
+img {
+    height:200px;
+    width:200px;
+}
+footer{
+    height:10vh;
+}
