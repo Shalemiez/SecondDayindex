@@ -1,0 +1,55 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #efeee7;
+}
+
+header{
+    background-color: gray;
+}
+
+h1{
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+    padding: 20px 0;
+    padding-bottom: 20px;
+}
+
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+
+
+#studentbio,
+#bioimg,
+#info{
+    float:left;
+
+}
+#studentbio{
+    width: 70%;
+}
+#info{
+    width: 30%;
+}
+img{
+    
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+}
